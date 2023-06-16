@@ -1,6 +1,4 @@
 # Name: Anonto Barua
-# Email: anontob@my.yorku.ca
-# Student ID: 218 949 412
 # Purpose: To implement a simple card game where the player starts with 100 points, and they have ten attempts (rounds)
 # to reach 500 points to win. Each round, the player "bets" any amount of points which is between the lowest amount they
 # can bet, and the total amount of points they have. If they can't reach the 500 points before 10 rounds, or before
